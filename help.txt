@@ -1,0 +1,12 @@
+1)persona
+age
+profession
+
+color of site
+shades are used similar to logo
+spa
+pwa
+manifestation
+web assembly
+
+service worker js file
